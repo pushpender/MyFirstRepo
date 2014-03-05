@@ -1,1 +1,1 @@
-A new txt file for learning GIT
+This is the second commit
